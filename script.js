@@ -13,9 +13,14 @@ btn1.onclick=function(){
     else if (rdbtn1.checked) {
         let f1=(input*9/5)+32;
         document.getElementById("par1").textContent=`°${input} Celcius is °${f1} Farhrenheit`
-    } else {
+
+    } else if(rdbtn2.checked){
         let C1=(input-32)*5/9;
         document.getElementById("par1").textContent=`°${input} Farhrenheit is °${C1} Celcius`
+    }
+
+    else{
+        document.getElementById("par1").textContent=`Choose an option!` 
     }
 
 }
