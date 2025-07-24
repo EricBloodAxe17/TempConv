@@ -50,6 +50,12 @@ A basic web-based temperature converter that allows users to convert values betw
 - Styled input, button, and layout
 - Responsive and visually accessible
 
+
+### 🌐 Live Demo
+
+[Try it on GitHub Pages](https://ericbloodaxe17.github.io/TempConv/)
+
+
 ---
 
 ✅ A great beginner project to learn DOM, events, and basic styling!
