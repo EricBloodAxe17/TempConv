@@ -1,0 +1,38 @@
+body{
+    background-color: bisque;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+#display{
+    background-color:rgb(230, 118, 118);
+    color: black;
+    height: 30px;
+    border-radius: 10px;
+    border: 5px solid black;
+    text-align: center;
+    font-size: x-large;
+
+}
+#btn1{
+    background-color: brown;
+    color: black;
+    border: 5px solid black;
+    cursor: pointer;
+    height: 60px;
+    width: 100px;
+    border-radius: 10px;
+    
+
+}
+form{
+    text-align: center;
+    background-color: rgb(178, 178, 85);
+    width: 400px;
+    margin: 80px auto;
+    height: 600px;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 10px 15px 15px;
+}
